@@ -1,7 +1,5 @@
 # Movie-Recommendation-System
 
-![logo](Snips/Logo.jpeg)
-
 ## Business Objectives :
 
 All entertainment websites or online stores have millions/billions of items. It becomes challenging for the customer to select the right one. At this place, recommender systems come into the picture and help the user to find the right item by minimizing the options.
